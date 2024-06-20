@@ -1,0 +1,14 @@
+.main-part-2 {
+    display: flex;
+    gap: 50px;
+    padding:  250px 150px 150px 150px;
+    background-color: $color_background;
+    color: white;
+    p {
+        color: rgb(255, 255, 255, 0.7);
+    }
+}
+.main-part-2-bottom {
+    display: flex;
+    align-items: flex-end;
+}

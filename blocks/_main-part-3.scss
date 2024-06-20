@@ -1,0 +1,12 @@
+.main-part-3 {
+    padding: 150px;
+    display: flex;
+    gap: 60px;
+    .img-part-3 {
+        height: 550px;
+        width: 550px;
+        img {
+            display: block;
+        }
+    }
+}

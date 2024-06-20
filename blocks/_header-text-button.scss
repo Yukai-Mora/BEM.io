@@ -1,0 +1,12 @@
+.header-text-button {
+    position: relative;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    width: 190px;
+    top: -130px;
+    right: -72%;
+    img {
+        cursor: pointer;
+    }
+}

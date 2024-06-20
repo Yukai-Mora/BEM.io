@@ -1,0 +1,13 @@
+.main-part-3-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    gap: 60px;
+    h3 {
+        margin-top: 0;
+    }
+    p {
+        margin: 0;
+        color: $color_fontmain;
+    }
+}

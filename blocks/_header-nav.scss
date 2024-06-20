@@ -1,0 +1,7 @@
+@import "mixins.scss";
+.header-nav {
+    @include flex;
+    padding: 40px; //внутренний отступ
+    margin-left: 100px;
+    align-items: center;
+}

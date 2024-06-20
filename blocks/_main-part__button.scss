@@ -1,0 +1,10 @@
+.main-part__button {
+    cursor: pointer;
+    padding: 10px 25px;
+    background: none;
+    border: solid 2px $color_fontmain;
+    border-radius: 5px;
+    color: $color_fontbutton;
+    font-size: 16px;
+    font-weight: 600;
+}

@@ -1,0 +1,30 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Merriweather", serif;
+    line-height: 1.7;
+    // font-weight: 400;
+    // font-style: normal;
+    // font-weight: 700;
+      }
+@import "blocks/colors";
+@import "blocks/links";
+@import "blocks/header";
+@import "blocks/header-nav";
+@import "blocks/header-nav-list";
+@import "blocks/header-nav-list__button";
+@import "blocks/header-nav-logo";
+@import "blocks/header-text";
+@import "blocks/header-text-button";
+@import "blocks/header-social";
+@import "blocks/main-part";
+@import "blocks/main-part__button";
+@import "blocks/main-part-text";
+@import "blocks/main-part-slider";
+@import "blocks/main-part-2";
+@import "blocks/main-part-slider-dots";
+@import "blocks/main-part-3";
+@import "blocks/main-part-3-grid";
+@import "blocks/footer";
+@import "blocks/footer-cookies";
+@import "blocks/mixins";
